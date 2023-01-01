@@ -6,10 +6,10 @@ The purpose of this statistical analysis is to observe the temperature trends in
 ## Results:
 We queried a SQLite file containing Oahu weather data to analyze trends in June and December. Our statistics summaries can be found below:
 
-June Summary:
+- June Summary:
   ![June Summary](https://raw.githubusercontent.com/ecost95/surfs_up/main/June.PNG)
   
-December Summary:
+- December Summary:
   ![December Summary](https://raw.githubusercontent.com/ecost95/surfs_up/main/December.PNG)
   
 - Point one: Average temperature is high in both June and December. As we can see, the average temperature in June is 75 degrees, and the average temperature in December is 71 degrees. Although June may be slightly warmer, the weather stays hospitable year-round. 
